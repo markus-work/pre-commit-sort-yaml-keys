@@ -1,0 +1,6 @@
+- id: yml-sorter
+  name: YAML Sorter
+  description: This hook sorts the keys in your YAML files.
+  entry: yml-sorter.sh
+  language: script
+  types: [yaml]
