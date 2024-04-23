@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env sh
 
 # use a tempfile and move it back aftwards
 # because some tools don't handle overwriting
